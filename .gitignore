@@ -1,0 +1,16 @@
+# Local development and temporary files
+.venv/
+tmp/
+.claude/
+.agents/
+
+# Large reference material: GitHub rejects files over 100 MB.
+*.pdf
+*.zip
+
+# Device-specific Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Community-plugin binaries are installed locally on each device.
+.obsidian/plugins/
