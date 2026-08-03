@@ -5,7 +5,6 @@ tmp/
 .agents/
 
 # Large reference material: GitHub rejects files over 100 MB.
-*.pdf
 *.zip
 
 # Device-specific Obsidian state
